@@ -1,34 +1,30 @@
 # creative-content-lab
 
-Content strategy experiments — editorial frameworks, storytelling structures, and campaign analysis.
+内容策略实验 — editorial frameworks、叙事结构、campaign 分析。
 
-## Why this exists
+## 为什么做这个 / Why
 
-Good content isn't just "writing." It's architecture: how ideas are organized, how narratives are sequenced, and how a brand's voice stays consistent across channels. This repo documents the systems behind the writing.
+好内容不是 "写" 出来的，是 architecture 出来的：想法怎么组织、叙事怎么排、品牌声音怎么跨渠道保持一致。这个 repo 记的是写作背后的系统。
 
-## What's inside
+## 里面有什么 / What's inside
 
-- **Content frameworks** — repeatable structures for different content types (explainer, persuasive, narrative, etc.)
-- **Editorial experiments** — A/B testing headlines, structures, and formats
-- **Storytelling structures** — narrative arcs, tension patterns, and emotional pacing
-- **Campaign analysis** — post-mortems on what worked and why
+- **内容框架** — 不同内容类型（解释型、说服型、叙事型）的可复用结构
+- **编辑实验** — headline、结构、格式的 A/B
+- **叙事结构** — 故事弧线、张力模式、情绪节奏
+- **Campaign 复盘** — 什么有效、为什么有效的 post-mortem
 
-## Approach
+## 思路 / Approach
 
-Structure before style. A clear framework produces better content faster than inspiration ever could.
+Structure before style. 清晰的框架比灵感产出更好的内容，也更快。
 
 ## Tech
 
-- Notion (content architecture)
+- Notion（内容架构）
 - Markdown systems
-- Figma (visual storytelling)
+- Figma（视觉叙事）
 
-## Future improvements
+## 下一步 / Next
 
-- Content performance correlation with structure
-- Automated A/B testing pipeline
-- Multi-language content framework adaptation
-
----
-
-*Building the systems behind good content.*
+- 内容表现与结构的关联
+- 自动化 A/B 测试管道
+- 多语言内容框架适配
