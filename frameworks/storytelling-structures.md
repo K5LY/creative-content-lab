@@ -1,6 +1,6 @@
 # Storytelling Structures
 
-Five narrative structures for brand and editorial content — each with the job it does best and the failure mode to watch for.
+Five narrative structures for brand and editorial content. Each comes with the job it does best and the failure mode to watch for.
 
 ---
 
@@ -14,7 +14,7 @@ Five narrative structures for brand and editorial content — each with the job 
 
 ## 2 · The Process Story
 
-**Shape:** The reader follows a real process — including the messy middle. Attempt → obstacle → adjustment → result.
+**Shape:** The reader follows a real process, including the messy middle. Attempt → obstacle → adjustment → result.
 
 **Best for:** Building credibility and showing craft. Case studies, build logs, "how we made this."
 
