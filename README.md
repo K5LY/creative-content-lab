@@ -1,30 +1,32 @@
 # creative-content-lab
 
-内容策略的小实验：编辑框架、叙事结构、campaign 复盘。
+**Content strategy, made observable.**
 
-## 为什么有这个仓库
+Editorial frameworks, storytelling structures, and campaign analysis — the thinking layer behind content that builds brands.
 
-好内容不是「写」出来的，是「搭」出来的。想法怎么组织、叙事怎么排、一个品牌的调性怎么在各处保持一致，这些才是背后的系统。这个仓库记的就是这些系统。
+---
 
-## 里面有什么
+## Why this exists
 
-- **内容框架**：不同内容类型的可复用结构（干货型、说服型、故事型）
-- **编辑实验**：标题、结构、形式的 A/B 试
-- **叙事结构**：故事弧线、张力、情绪节奏
-- **campaign 复盘**：哪些管用、为什么管用
+Content fails for predictable reasons: no structure, no point of view, no system for learning from what performed.
 
-## 思路
+This lab is the documentation side of that problem. Structures that work get written down. Campaigns get broken into parts to see *why* they worked — not just that they did.
 
-先有结构，再有文笔。一个清楚框架产出的内容，比灵感来时写的更稳更快。
+## What's inside
 
-## 用到什么
+| Path | Contents |
+|---|---|
+| `frameworks/` | Editorial and storytelling structures, reusable across formats |
+| `analysis/` | Campaign breakdowns and pattern notes |
+| `templates/` | Planning formats for briefs, calendars, and retros |
 
-Notion 搭内容骨架 · Markdown 系统 · Figma 做视觉叙事
+## Roadmap
 
-## 还在做
+- [ ] Publish core storytelling structures set
+- [ ] First campaign analysis write-up
+- [ ] Editorial planning template v1
+- [ ] Pattern library: hooks that survive the first 3 seconds
 
-- 内容结构和数据表现的关系
-- 自动化 A/B 测试
-- 多语言内容框架迁移
+---
 
-*在做好内容背后的系统。*
+*Part of the K5LY studio — see the full picture on the [profile](https://github.com/K5LY).*
